@@ -1,0 +1,43 @@
+body {margin: 0;}
+        .f-div {
+            background-color: #E4F9F5;
+            margin-bottom: 50px;
+        }
+
+        .l-div {
+            background-color: #E4F9F5;
+            margin-top: 50px;
+        }
+
+        h1 {font-family: arial; font-size: 50px;}
+
+        h1,.a {
+            margin: 0;
+            padding-top: 80px;
+            padding-bottom: 80px;
+            color:#66BFBF;
+            text-align: center;
+        }
+
+        a {
+            font-size: 50px;
+            font-family: arial;
+            color: #66BFBF;
+        }
+        
+        .s-div {
+            
+            
+        }
+
+        h2 {
+            
+            color:#66BFBF;
+        }
+
+        .b,.c,.d,.e {
+            position: relative;
+        }
+
+        .b,.d {left:90px;}
+        .c,.e {left:800px}
